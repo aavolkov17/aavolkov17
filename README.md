@@ -6,11 +6,12 @@ I am an aspiring Data Science specialist who loves machine learning, analytics a
 
 
 ### Мои контакты:
-- [sasha171volkov@yandex.ru](mailto:sasha171volkov@yandex.ru) - write to me by Email.
-- [@VolkovAleksandr17](https://t.me/VolkovAleksandr17) - my telegram.
+- [sasha171volkov@yandex.ru](mailto:sasha171volkov@yandex.ru) - Email
+- [@VolkovAleksandr17](https://t.me/VolkovAleksandr17) - Telegram
 
-### 💻 Технологии:
+### 💻 Мои навыки:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -27,9 +28,20 @@ I am an aspiring Data Science specialist who loves machine learning, analytics a
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-### Социальные сети
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
+### Мои курсы:
+<table>
+<tr>
+  <th>Courses`s name</th>
+  <th>The form of education</th>
+  <th>Status</th>
+</tr> 
+<tr>
+  <td><a href = "https://github.com/Sata9islav/Yandex_Practicum_Data_Science">Yandex.Practicum: Data Science Specialist</a></td>
+  <td>Distance</td>
+  <td>Completed</td>
+</tr>
+</table>
 
 
 
