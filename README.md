@@ -1,5 +1,13 @@
-### 👋 Привет, меня зовут Александр!
+# 👋 Привет, меня зовут Александр!
+
 I am an aspiring Data Science specialist who loves machine learning, analytics and programming.
+
+<br>
+
+
+### Мои контакты:
+- [sasha171volkov@yandex.ru](mailto:sasha171volkov@yandex.ru) - write to me by Email.
+- [@VolkovAleksandr17](https://t.me/VolkovAleksandr17) - my telegram.
 
 ### 💻 Технологии:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
