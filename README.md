@@ -37,7 +37,7 @@ I am an aspiring Data Science specialist who loves machine learning, analytics a
   <th>Status</th>
 </tr> 
 <tr>
-  <td><a href = "https://github.com/Sata9islav/Yandex_Practicum_Data_Science">Yandex.Practicum: Data Science Specialist</a></td>
+  <td><a href = "https://github.com/aavolkov17/YandexPracticum">Yandex.Practicum: Data Science Specialist</a></td>
   <td>Distance</td>
   <td>Completed</td>
 </tr>
