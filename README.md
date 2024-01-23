@@ -34,11 +34,13 @@
   <th>Courses`s name</th>
   <th>The form of education</th>
   <th>Status</th>
+  <th>Certificate</th>
 </tr> 
 <tr>
   <td><a href = "https://github.com/aavolkov17/YandexPracticum">Yandex.Practicum: Data Science Specialist</a></td>
   <td>Distance</td>
   <td>Completed</td>
+  <td><a href = "https://github.com/aavolkov17/aavolkov17/blob/main/DS_сертификат.pdf">RUS/</a><a href = "https://github.com/aavolkov17/aavolkov17/blob/main/DS_сертификат.pdf">ENG</a></td>
 </tr>
 </table>
 
