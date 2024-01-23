@@ -1,11 +1,9 @@
 # 👋 Привет, меня зовут Александр!
 
-I am an aspiring Data Science specialist who loves machine learning, analytics and programming.
-
+Я начинающий Аналитик данных | Data Scientist, который любит анализировать, визуализировать и предсказывать 🧙‍♂️
 <br>
 
-
-### Мои контакты:
+### 📞 Мои контакты:
 - [sasha171volkov@yandex.ru](mailto:sasha171volkov@yandex.ru) - Email
 - [@VolkovAleksandr17](https://t.me/VolkovAleksandr17) - Telegram
 
@@ -29,7 +27,7 @@ I am an aspiring Data Science specialist who loves machine learning, analytics a
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Мои курсы:
+### 📚 Мои курсы:
 <table>
 <tr>
   <th>Courses`s name</th>
@@ -42,20 +40,3 @@ I am an aspiring Data Science specialist who loves machine learning, analytics a
   <td>Completed</td>
 </tr>
 </table>
-
-
-
-<!--
-**aavolkov17/aavolkov17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
