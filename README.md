@@ -60,11 +60,6 @@
   <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/8.%20Выбор%20локации%20для%20нефтедобычи">Определение 
 самого прибыльного региона нефтедобычи</a></td>
   <td>На основе данных геологи разведки выбрать район добычи нефти</td>
-  <td>Pandas,Matplotlib,Scikit-learn</td>
+  <td>Pandas, Matplotlib, Scikit-learn</td>
 </tr>
-<tr>
-  <td>Скоро</th>
-  <td>Будут</th>
-  <td>Здесь</th>
-</tr> 
 
