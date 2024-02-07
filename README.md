@@ -51,7 +51,7 @@
 
 ### 🏀 Мое хобби:
 
-<img src="https://github.com/aavolkov17/aavolkov17/blob/main/basket.jpeg" alt="basketball" width="400"/> 
+<img src="https://github.com/aavolkov17/aavolkov17/blob/main/basket%202.jpeg" alt="basketball" width="400"/> 
 
 ### Лучшие учебные проекты программы Data Science
 <table>
