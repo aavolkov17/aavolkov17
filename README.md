@@ -49,6 +49,10 @@
 <img src="https://camo.githubusercontent.com/96f76967204792d6f957d3f5429078faee582c4b027c70bdcdd2575df974027c/68747470733a2f2f7777772e696e7465726e6174696f6e616c2d736f756e642d6177617264732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031332f30362f686f73745f62616e6e65725f323031332d30322e6a7067" alt="HSE Logo" width="400"/> 
 Направление: Бизнес-информатика
 
+### 🏀 Мое хобби:
+
+<img src="https://github.com/aavolkov17/aavolkov17/blob/main/bascetball2%202.jpeg" alt="basketball" width="400"/> 
+
 ### Лучшие учебные проекты программы Data Science
 <table>
 <tr>
