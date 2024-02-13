@@ -68,7 +68,7 @@
 </tr>
 <tr>
   <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/p15.%20Финальный%20проетк">Финальный проект</a></td>
-  <td>На основе данных геологи разведки выбрать район добычи нефти</td>
+  <td>На основе данных Телеком компании обучить модель, которая будет предсказывать, разорвёт ли абонент договор.</td>
   <td>Pandas, Matplotlib, Seaborn, Scikit-learn, CatBoost</td>
 </tr>
 
