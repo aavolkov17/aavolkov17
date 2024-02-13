@@ -66,4 +66,9 @@
   <td>На основе данных геологи разведки выбрать район добычи нефти</td>
   <td>Pandas, Matplotlib, Scikit-learn</td>
 </tr>
+<tr>
+  <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/p15.%20Финальный%20проетк">Финальный проект</a></td>
+  <td>На основе данных геологи разведки выбрать район добычи нефти</td>
+  <td>Pandas, Matplotlib, Scikit-learn, CatBoost</td>
+</tr>
 
